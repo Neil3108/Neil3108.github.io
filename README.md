@@ -29,6 +29,6 @@ As mentioned in the Andrew Etter's book Mordern Technical Writing because of the
 Once you have a Github account and a resume formatted in Markdown you can host it on Github. Once you are logged into Github and you are on the homepage which should look like this
 
 follow these steps:
-#### 1. Making a Repositorie
-    1. In the upper-right corner of the page, click **New** to creat a new Repositorie **insert gif**
-    2. 
+#### **1. Making a Repositorie**
+1. In the upper-right corner of the page, click **New** to creat a new Repositorie **insert gif**
+2. 
