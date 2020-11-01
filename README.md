@@ -40,7 +40,7 @@ follow these steps:
     1. Making a new file and writing your resume
     If you don't already have your resume in Markdown you can creat a new file in your repository and type in your resume in Markdown. To do that just follow these steps:
         1. Click on Add file at the upper center of the page and select Creat new file.
-        2. Name the file `index.mb`.
+        2. Name the file `index.md`.
         3. Write your resume in Markdown format in the text body.
         4. After you are done with the resume, click on Commit new file to creat the file.
     2. Uploading your resume
