@@ -70,7 +70,7 @@ Now follow these steps:
         3. Write your resume in Markdown format in the text body.
         4. After you are done with the resume, click on Commit new file to creat the file.
 <p align="center">
-<img src="image/CommitChanges.PNG">
+<img src="image/Commit.PNG">
 </p>
     2. Uploading your resume
         1. Click on Add file at the upper center of the page and select Upload files. **INSERT GIF**
