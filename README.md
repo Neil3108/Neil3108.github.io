@@ -66,6 +66,9 @@ Now follow these steps:
     1. **Making a new file and writing your resume**
     If you don't already have a file with your resume in Markdown you can creat a new file in your repository and type in your resume in Markdown. To do that just follow these steps:
         1. Click on Add file at the upper center of the page and select Creat new file. **INSERT GIF**
+        <p align="center">
+        <img src="image/GIF.gif">
+        </p>
         2. Name the file `index.mb`.
         3. Write your resume in Markdown format in the text body.
         4. After you are done with the resume, click on Commit new file to creat the file.
@@ -74,16 +77,11 @@ Now follow these steps:
         </p>
     2. **Uploading your resume**
         1. Click on Add file at the upper center of the page and select Upload files. **INSERT GIF**
+        <p align="center">
+        <img src="image/GIFupload.gif">
+        </p>
         2. Find and select the `index.md` file on your computer and click on Commit changes at the bottom of the page to upload the file.
 
 <p align="center">
 <img src="image/CommitChanges.PNG">
-</p>
-
-<p align="center">
-<img src="image/GIF.gif">
-</p>
-
-<p align="center">
-<img src="image/GIFupload.gif">
 </p>
