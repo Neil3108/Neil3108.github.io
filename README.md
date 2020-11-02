@@ -63,22 +63,25 @@ Now follow these steps:
 
 #### **2. Adding your resume**
 The file that will have your resume needs to be named `index.md`. There are two way to have your resume in repository. Making a new file and writing your resume directly in Github and uploading the file that already have your resume in Markdown.
-1) **Making a new file**
+1) **Making a new file** <br />
     a. To make a new file, click on Add file at the upper center of the page and select Creat new file.
     <p align="center">
     <img src="image/GIF.gif">
     </p>
-    b. Name the file `index.mb`.
-    c. Write your resume in Markdown format in the text body.
+    <br />
+    b. Name the file `index.mb`. <br />
+    c. Write your resume in Markdown format in the text body. <br />
     d. After you are done with the resume, click on Commit new file to creat the file.
     <p align="center">
     <img src="image/Commit.PNG">
     </p>
-2) **Uploading the file**
+    <br />
+2) **Uploading the file** <br />
     a. To upload the file, click on Add file at the upper center of the page and select Upload files.
     <p align="center">
     <img src="image/GIFupload.gif">
     </p>
+    <br />
     b. Find and select the `index.md` file on your computer and click on Commit changes at the bottom of the page to upload the file.
     <p align="center">
     <img src="image/CommitChanges.PNG">
