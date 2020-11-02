@@ -13,10 +13,10 @@ We will go through a step by step procedure on how to host your resume on Github
 ## Getting started
 asfdfads
 ### Prerequisites
-You do need a resume already formated in Markdown and have a Github account. You can [visit](https://github.com/) to make a Github account.
+You do need a resume already formatted in Markdown and have a Github account. You can [visit](https://github.com/) to make a Github account.
  - ### Markdown
-   Markdown is a lightweight markup language with plain-text-formatting syntax. You can learn the basic syntax for Markdown [HERE](https://www.markdownguide.org/basic-syntax/). There are number of Markdown editor avaiable and they come in many different syntax. We will fouces on Github Markdown.
-As mentioned in the Andrew Etter's book Mordern Technical Writing because of the popularity of Markdown many specialized text editors exist for it. For example:
+   Markdown is a lightweight markup language with plain-text-formatting syntax. You can learn the basic syntax for Markdown [HERE](https://www.markdownguide.org/basic-syntax/). There are number of Markdown editor available and they come in many different syntax. We will focus on Github Markdown.
+As mentioned in the Andrew Etter's book Modern Technical Writing because of the popularity of Markdown many specialized text editors exist for it. For example:
     - [MarkdownPad(Windows)](http://www.markdownpad.com/)
     - [iA Writer(macOS)](https://ia.net/writer)
     - [ReText(Linux)](https://sourceforge.net/directory/development/wordprocessors/os:windows/)
@@ -30,19 +30,20 @@ Once you have a Github account and a resume formatted in Markdown you can host i
 
 follow these steps:
 #### **1. Making a new Repository**
-1. In the upper-right corner of the page, click **New** to creat a new repository **insert New image**
-2. Once you are in the creat new repositorie page, it will ask you to name the repositorie. Since we want to host our resume, we will name the repositorie as `YourUserName.github.io`. For example, if your user name is XYZ you should name your repositorie `XYZ.github.io`. You can also put a little description of your repository but that is optional.
+1. In the upper-right corner of the page, click **New** to create a new repository **insert New image**
+2. Once you are in the create new repository page, it will ask you to name the repository. Since we want to host our resume, we will name the repository as `YourUserName.github.io`. For example, if your username is XYZ you should name your repository `XYZ.github.io`. You can also put a little description of your repository but that is optional.
 3. Now you need to decide if you want to make your repository public or private. Since this is repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro.*
-4. Finally, we initialize files that you want with the repository. This is optional but since we are making a resume we do not need any additional files.
+4. Finally, we initialize files that you want with the repository. This is optional but since we are making a resume, we do not need any additional files.
 5. Now we have selected all the properties for our repository and we just need to click on Creat repository.
 #### **2. Adding your resume**
 1. The file your resume is going to be in needs to be named `index.md`. There are two way to have your resume in repository.
     1. Making a new file and writing your resume
-    If you don't already have your resume in Markdown you can creat a new file in your repository and type in your resume in Markdown. To do that just follow these steps:
-        1. Click on Add file at the upper center of the page and select Creat new file.
-        2. Name the file `index.md`.
+    If you don't already have your resume in Markdown you can create a new file in your repository and type in your resume in Markdown. To do that just follow these steps:
+        1. Click on Add file at the upper center of the page and select Create new file.
+        2. Name the file `index.mb`.
         3. Write your resume in Markdown format in the text body.
-        4. After you are done with the resume, click on Commit new file to creat the file.
+        4. After you are done with the resume, click on Commit new file to create
+ the file.
     2. Uploading your resume
         1. Click on Add file at the upper center of the page and select Upload files.
         2. Find and select the `index.md` file on your computer and click on Commit changes at the bottom of the page to upload the file.
