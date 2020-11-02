@@ -32,7 +32,9 @@ Once you have a Github account and a resume formatted in Markdown you can host i
 Now follow these steps:
 #### **1. Making a new Repository**
 1. In the upper-right corner of the page, click **New** to creat a new repository
+<p align="center">
 <img src="image/New.PNG">
+</p>
 2. Once you are in the creat new repositorie page, it will ask you to name the repositorie. Since we want to host our resume, we will name the repositorie as `YourUserName.github.io`. For example, if your user name is XYZ you should name your repositorie `XYZ.github.io`. You can also put a little description of your repository but that is optional.
 3. Now you need to decide if you want to make your repository public or private. Since this is repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro.*
 4. Finally, we initialize files that you want with the repository. This is optional but since we are making a resume we do not need any additional files.
