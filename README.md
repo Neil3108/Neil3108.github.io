@@ -78,3 +78,4 @@ Now follow these steps:
 <p align="center">
 <img src="image/CommitChanges.PNG">
 </p>
+![](image/GIF.gif)
