@@ -69,9 +69,9 @@ Now follow these steps:
         2. Name the file `index.mb`.
         3. Write your resume in Markdown format in the text body.
         4. After you are done with the resume, click on Commit new file to creat the file.
-<p align="center">
+`<p align="center">
 <img src="image/Commit.PNG">
-</p>
+</p>`
     2. **Uploading your resume**
         1. Click on Add file at the upper center of the page and select Upload files. **INSERT GIF**
         2. Find and select the `index.md` file on your computer and click on Commit changes at the bottom of the page to upload the file.
