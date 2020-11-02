@@ -26,11 +26,13 @@ As mentioned in the Andrew Etter's book Mordern Technical Writing because of the
     - [stackedit.io](https://stackedit.io/)
 
 ## Hosting the Resume
-Once you have a Github account and a resume formatted in Markdown you can host it on Github. Once you are logged into Github and you are on the homepage which should look like this
-![](image/GithubHomepage.PNG)
-follow these steps:
+Once you have a Github account and a resume formatted in Markdown you can host it on Github. Log into your Github account and the homepage of your account will open which will look this:
+![Homepage](image/GithubHomepage.PNG)
+
+Now follow these steps:
 #### **1. Making a new Repository**
-1. In the upper-right corner of the page, click **New** to creat a new repository **insert New image**
+1. In the upper-right corner of the page, click **New** to creat a new repository
+<img src="image/New.PNG">
 2. Once you are in the creat new repositorie page, it will ask you to name the repositorie. Since we want to host our resume, we will name the repositorie as `YourUserName.github.io`. For example, if your user name is XYZ you should name your repositorie `XYZ.github.io`. You can also put a little description of your repository but that is optional.
 3. Now you need to decide if you want to make your repository public or private. Since this is repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro.*
 4. Finally, we initialize files that you want with the repository. This is optional but since we are making a resume we do not need any additional files.
