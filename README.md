@@ -62,24 +62,24 @@ Now follow these steps:
 </p>
 
 #### **2. Adding your resume**
-1. The file that will have your resume needs to be named `index.md`. There are two way to have your resume in repository. Making a new file and writing your resume directly in Github and uploading the file that already have your resume in Markdown.
-    a) **Making a new file**
-        1. To make a new file, click on Add file at the upper center of the page and select Creat new file.
-        <p align="center">
-        <img src="image/GIF.gif">
-        </p>
-        2. Name the file `index.mb`.
-        3. Write your resume in Markdown format in the text body.
-        4. After you are done with the resume, click on Commit new file to creat the file.
-        <p align="center">
-        <img src="image/Commit.PNG">
-        </p>
-        b) **Uploading the file**
-        1. To upload the file, click on Add file at the upper center of the page and select Upload files.
-        <p align="center">
-        <img src="image/GIFupload.gif">
-        </p>
-        2. Find and select the `index.md` file on your computer and click on Commit changes at the bottom of the page to upload the file.
-        <p align="center">
-        <img src="image/CommitChanges.PNG">
-        </p>
+The file that will have your resume needs to be named `index.md`. There are two way to have your resume in repository. Making a new file and writing your resume directly in Github and uploading the file that already have your resume in Markdown.
+1) **Making a new file**
+    a. To make a new file, click on Add file at the upper center of the page and select Creat new file.
+    <p align="center">
+    <img src="image/GIF.gif">
+    </p>
+    b. Name the file `index.mb`.
+    c. Write your resume in Markdown format in the text body.
+    d. After you are done with the resume, click on Commit new file to creat the file.
+    <p align="center">
+    <img src="image/Commit.PNG">
+    </p>
+2) **Uploading the file**
+    a. To upload the file, click on Add file at the upper center of the page and select Upload files.
+    <p align="center">
+    <img src="image/GIFupload.gif">
+    </p>
+    b. Find and select the `index.md` file on your computer and click on Commit changes at the bottom of the page to upload the file.
+    <p align="center">
+    <img src="image/CommitChanges.PNG">
+    </p>
