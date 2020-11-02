@@ -78,4 +78,7 @@ Now follow these steps:
 <p align="center">
 <img src="image/CommitChanges.PNG">
 </p>
+<p align="center">
+<img src="image/GIF.gif">
+</p>
 ![](image/GIF.gif)
