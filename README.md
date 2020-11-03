@@ -27,24 +27,24 @@ Once you have a Github account and a resume formatted in Markdown you can host i
 ![Homepage](image/GithubHomepage.PNG)
 
 Now we just have to make a new repository and add your resume to the repository.
-#### **1. Making a new Repository**
+##### **1. Making a new Repository**
 1. In the upper-right corner of the page, click **New** to creat a new repository
 
-<p align="center">
-<img src="image/New.PNG">
-</p>
+    <p align="center">
+    <img src="image/New.PNG">
+    </p>
 
 2. Once you are in the creat new repositorie page, it will ask you to name the repositorie. Since we want to host our resume, we will name the repositorie as `YourUserName.github.io`. For example, if your user name is XYZ you should name your repositorie `XYZ.github.io`. You can also put a little description of your repository but that is optional.
 
-<p align="center">
-<img src="image/Onwer.PNG">
-</p>
+    <p align="center">
+    <img src="image/Onwer.PNG">
+    </p>
 
 3. Now you need to decide if you want to make your repository public or private. Since this is repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro.*
 
-<p align="center">
-<img src="image/Private.PNG">
-</p>
+    <p align="center">
+    <img src="image/Private.PNG">
+    </p>
 
 4. Finally, we initialize files that you want with the repository. This is optional but since we are making a resume we do not need any additional files.
 
@@ -54,11 +54,11 @@ Now we just have to make a new repository and add your resume to the repository.
 
 5. Now we have selected all the properties for our repository and we just need to click on Creat repository.
 
-<p align="center">
-<img src="image/Creat.PNG">
-</p>
+    <p align="center">
+    <img src="image/Creat.PNG">
+    </p>
 
-#### **2. Adding your resume**
+##### **2. Adding your resume**
 The file that will have your resume needs to be named `index.md`. There are two way to have your resume in repository. Making a new file and writing your resume directly in Github and uploading the file that already have your resume in Markdown.
 1) **Making a new file** <br />
     a. To make a new file, click on Add file at the upper center of the page and select Creat new file.
@@ -83,3 +83,5 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <p align="center">
     <img src="image/CommitChanges.PNG">
     </p>
+
+### Changing the theme of your resume
