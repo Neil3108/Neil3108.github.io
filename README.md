@@ -83,7 +83,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <br />
     b. Name the file `index.mb`. <br />
     c. Write your resume in Markdown format in the text body. <br />
-    d. Click on <strong>Commit</strong> after you are done writing your resume to create a new file. <br />
+    d. Click on **Commit** after you are done writing your resume to create a new file. <br />
     <p align="center">
     <img src="image/Commit.PNG">
     </p>
@@ -94,7 +94,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <img src="image/GIFupload.gif">
     </p>
     <br />
-    b. Find and select the `index.md` file on your computer and click on <strong>Commit changes</strong> at the bottom of the page to upload the file.
+    b. Find and select the `index.md` file on your computer and click on **Commit changes** at the bottom of the page to upload the file.
     <p align="center">
     <img src="image/CommitChanges.PNG">
     </p>
@@ -134,11 +134,11 @@ Now that you have your resume in a repository, you can change the theme of your 
 
 ## Acknowledgments
 Resume Theme <br />
-[cayman](https://github.com/pages-themes/cayman) <br />
+[cayman](https://github.com/pages-themes/cayman) by Parker Moore <br />
 
 Peer reviewed by <br />
-[mariellemanlulu](https://github.com/mariellemanlulu/) <br />
-[chrisciceron](https://github.com/chrisciceron) <br />
+Marielle Manlulu [(mariellemanlulu)](https://github.com/mariellemanlulu/) <br />
+Chris Ciceron [(chrisciceron)](https://github.com/chrisciceron) <br />
 
 ## FAQs
 Q- I am able to edit my resume and its theme once I have uploaded it? <br />
