@@ -1,6 +1,6 @@
 # Hosting Your Resume on Github While Learing the Principles of Modern Technical Writing
 
-We will go through a step by step procedure on how to host your resume on Github and how you can format your resume using Markdown.
+We will go through a step by step procedure on how to host your resume on Github and how you can use the basic principles of modern technical writing mentioned in [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Audience
 This README is for people who wants to learn how to host their resume on static website but have no experiance with Github and static website hosting. This will also help people understand the principles of modern technical writing.
@@ -19,7 +19,7 @@ This README is for people who wants to learn how to host their resume on static 
 ### Prerequisites
 You do need a resume already formated in Markdown and have a Github account. You can [visit](https://github.com/) to make a Github account.
 ### Markdown
-Markdown is a lightweight markup language with plain-text-formatting syntax. You can learn the basic syntax for Markdown [here](https://www.markdownguide.org/basic-syntax/). There are number of Markdown editor avaiable and they come in many different syntax. We will fouces on Github Markdown.
+Markdown is a lightweight markup language with plain-text-formatting syntax and as the Etter's book mentioned it's the most widely used lightweight markup language in the world and has the cleanest syntax. You can learn the basic syntax for Markdown [here](https://www.markdownguide.org/basic-syntax/). There are number of Markdown editor avaiable and they come in many different syntax. We will fouces on Github Markdown.
 As mentioned in the Andrew Etter's book Mordern Technical Writing because of the popularity of Markdown many specialized text editors exist for it. For example: <br />
     - [MarkdownPad(Windows)](http://www.markdownpad.com/)<br />
     - [iA Writer(macOS)](https://ia.net/writer)<br />
