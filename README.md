@@ -1,5 +1,7 @@
-# Online resume hosting and formatting resume using Markdown
+# Hosting Your Resume on Github While Learing the Principles of Modern Technical Writing
+
 We will go through a step by step procedure on how to host your resume on Github and how you can format your resume using Markdown.
+
 ## Audience
 This README is for people who wants to learn how to host their resume on static website but have no experiance with Github and static website hosting. This will also help people understand the principles of modern technical writing.
 
@@ -27,6 +29,7 @@ There also are many online Markdown editors. The popular ones are:<br />
     - [stackedit.io](https://stackedit.io/)<br />
 
 ## Instructions
+Having your resume hosted at single source avoid duplication and makes updating your resume easier. As Etter's book says if things change—and things always change—you only have to update the documentation in one place.  
 ## Hosting the Resume
 Once you have a Github account and a resume formatted in Markdown you can host it on Github. Log into your Github account and the homepage of your account will open which will look this:
 ![Homepage](image/GithubHomepage.PNG)
@@ -108,13 +111,14 @@ Now that you have your resume in a repository, you can change the theme of your 
     <p align="center">
     <img src="image/Selecttheme.PNG">
     </p>
-5) The theme of your resume is now changed! To find the name of url of the page your resume is being hosted on simply go back to the Github Pages and it will show you the url. 
+5) The theme of your resume is now changed! And your static website is live. To find the name of url of the page your resume is being hosted on simply go back to the Github Pages and it will show you the url.  
     <p align="center">
     <img src="image/ResumeGIF.gif">
     </p>
     
 ### More Resources
-- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [In depth Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [dillinger.io](https://dillinger.io/)
 
@@ -122,17 +126,18 @@ Now that you have your resume in a repository, you can change the theme of your 
 [neil3108](https://github.com/Neil3108/)
 
 ### Acknowledgments
-Resume Theme 
+Resume Theme <br />
 [cayman](https://github.com/pages-themes/cayman) <br />
-Team members <br />
+
+Peer reviewed by <br />
 [mariellemanlulu](https://github.com/mariellemanlulu/) <br />
-[chrisciceron](https://github.com/chrisciceron)
+[chrisciceron](https://github.com/chrisciceron) <br />
 
 ### FAQ
-Q- I am able to edit my resume and it's theme once I have uploaded it?
-Ans- Yes! You can edit  your resume and change it's theme as many times as you want.
+Q- I am able to edit my resume and it's theme once I have uploaded it? <br />
+Ans- Yes! You can edit your resume and change it's theme as many times as you want. <br />
 
-Q- Why do I need to host my resume for on a static website? What is wrong is distributing resume in a PDF?
+Q- Why do I need to host my resume for on a static website? What is wrong is distributing resume in a PDF? <br />
 Ans- Well, as Etter's book mentions PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful. If you want to share a resume that is always up to date, hosting it on a static website is the way to go.
 
 
