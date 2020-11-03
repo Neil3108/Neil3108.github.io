@@ -85,3 +85,42 @@ The file that will have your resume needs to be named `index.md`. There are two 
     </p>
 
 ### Changing the theme of your resume
+Now that you have your resume in a repository, you can change the theme of your resume i.e. how your resume will look in a static site. To change the theme just do the following:
+
+1) Once you are inside your repository, click on Settings on the toolbar below your user name 
+    <p align="center">
+    <img src="image/Setting.PNG">
+    </p>
+2) On the setting page, scroll all the way down to Github Pages which will look like this
+    <p align="center">
+    <img src="image/Githubpages.PNG">
+    </p>
+3) Now click on Change theme under Theme Chooser to change the theme
+    <p align="center">
+    <img src="image/Changetheme.PNG">
+    </p>
+4) Once you are on the change theme page, just select the them you like and click on Select theme
+    <p align="center">
+    <img src="image/Selecttheme.PNG">
+    </p>
+5) The theme of your resume is now changed! To find the name of url of the page your resume is being hosted on simply go back to the Github Pages and it will show you the url. 
+    <p align="center">
+    <img src="image/ResumeGIF.gif">
+    </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
