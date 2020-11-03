@@ -6,6 +6,7 @@ We will go through a step by step procedure on how to host your resume on Github
  - [Markdown](#markdown)
  - [Hosting the Resume](#hosting-the-resume)
  - [Changing the theme of your resume](#changing-the-theme-of-your-resume)
+ - [More Resources](#moreresources)
  - [Authors](#authors)
  - [Acknowledgments](#acknowledgments)
  - [FAQ](#faq)
@@ -107,12 +108,19 @@ Now that you have your resume in a repository, you can change the theme of your 
     <p align="center">
     <img src="image/ResumeGIF.gif">
     </p>
+    
+### More Resources
+- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- 
 
+### Authors
+[neil3108](https://github.com/Neil3108/)
 
-
-
-
-
+### Acknowledgments
+[cayman](https://github.com/pages-themes)
+[mariellemanlulu](https://github.com/mariellemanlulu/)
+[chrisciceron](https://github.com/chrisciceron)
 
 
 
