@@ -102,7 +102,7 @@ Now that you have your resume in a repository, you can change the theme of your 
     <p align="center">
     <img src="image/Changetheme.PNG">
     </p>
-4) Once you are on the change theme page, just select the them you like and click on Select theme
+4) Once you are on the change theme page, just select the one you like and click on Select theme
     <p align="center">
     <img src="image/Selecttheme.PNG">
     </p>
