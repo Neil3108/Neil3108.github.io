@@ -14,7 +14,7 @@ This README is for Computer Science students who wants to learn how to host thei
 - [More Resources](#more-resources)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
-- [FAQs](#faq)
+- [FAQs](#faqs)
 
 ## Prerequisites
 Before starting you will need: 
@@ -126,7 +126,7 @@ Now that you have your resume in a repository, you can change the theme of your 
 - [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [dillinger.io](https://dillinger.io/)
 
-## Authors
+## Author
 [neil3108](https://github.com/Neil3108/)
 
 ## Acknowledgments
@@ -137,7 +137,7 @@ Peer reviewed by <br />
 [mariellemanlulu](https://github.com/mariellemanlulu/) <br />
 [chrisciceron](https://github.com/chrisciceron) <br />
 
-## FAQ
+## FAQs
 Q- I am able to edit my resume and its theme once I have uploaded it? <br />
 Ans- Yes! You can edit your resume and change its theme as many times as you want. <br />
 
