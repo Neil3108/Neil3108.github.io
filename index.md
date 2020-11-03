@@ -54,7 +54,7 @@ Seeking part-time employment in your esteemed organization
 
 
 #### Education 
- - Currently pursuing computer science at University of Manitoba, Winnipeg, MB
+- Currently pursuing computer science at University of Manitoba, Winnipeg, MB
 
 - UTP – Stage 2 | International College of Manitoba May. 2015 – April. 2016
 
