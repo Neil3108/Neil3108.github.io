@@ -1,6 +1,6 @@
 # Hosting Your Resume on Github While Learing the Principles of Modern Technical Writing
 
-We will go through a step by step procedure on how to host your resume on Github and how you can use the basic principles of modern technical writing mentioned in [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+We will go through a step by step procedure on how to host your resume on Github and how you can use the basic principles of modern technical writing mentioned in [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Audience
 This README is for people who wants to learn how to host their resume on static website but have no experiance with Github and static website hosting. This will also help people understand the principles of modern technical writing.
