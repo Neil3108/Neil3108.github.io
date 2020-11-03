@@ -2,23 +2,16 @@
 PRAKHAR SHARMA
 ============
 
-##### prakharsharma3108@gmail.com  												Cell: (204) 960 7733
-
-
-
-
-##### Objective
+##### prakharsharma3108@gmail.com  												Cell: (204) 960 7733 <br />
+<br />
+#### Objective
 Seeking part-time employment in your esteemed organization
 
-
-
-##### Summary
+#### Summary
 - Effective demonstration of analytical and communication skills.
-
 - Attained excellent knowledge of how to satisfy clients and build long-term relationships with them.
 
-
-##### Work Experience
+#### Work Experience
 **Rapid RTC							December 2018 – Current**
 
 - Worked as an Online eReceptionist
@@ -54,15 +47,13 @@ Seeking part-time employment in your esteemed organization
 - Managing the store 
 
 
-
-##### Volunteer Experience 
+#### Volunteer Experience 
 **ICM Orientation								       September 2015** 
 
  - Participated as a Group leader. Welcomed new students from around the world providing them with a campus tour and helping them with their queries.
 
 
-
-##### Education 
+#### Education 
  - Currently pursuing computer science at University of Manitoba, Winnipeg, MB
 
 - UTP – Stage 2 | International College of Manitoba May. 2015 – April. 2016
@@ -71,14 +62,13 @@ Seeking part-time employment in your esteemed organization
 
 - High School May 2012 from St.Columbo Public School, New Delhi  
 	
-##### Computer Skills & Certifications
+#### Computer Skills & Certifications
 ###### Microsoft Office 
 - MS Word, MS Excel, MS Power point and MS Access  
 ###### Graphics
 - Adobe Photoshop, Illustrator, InDesign and Corel
 ###### Other
 - Sony Sound Forge
-
 - Can type up to 50 words per minute
 ###### Operating System 
 - Practical experience with Windows 10, MAC OS, Windows 8 and Windows XP.
@@ -88,6 +78,5 @@ Seeking part-time employment in your esteemed organization
 - Java, Python, C, C++, Ruby, OpenGL, SQL
 
 
-##### References for Prakhar Sharma
-
+#### References for Prakhar Sharma
 Numerous professional and personal references are available and will be furnished upon request. 
