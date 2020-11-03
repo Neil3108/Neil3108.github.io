@@ -1,16 +1,18 @@
 # Online resume hosting and formatting resume using Markdown
 We will go through a step by step procedure on how to host your resume on Github and how you can format your resume using Markdown.
+## Audience
+This README is for people who wants to learn how to host their resume on static website but have no experiance with Github and static website hosting. This will also help people understand the principles of modern technical writing.
 
 ## Summary
- - [Prerequisites](#prerequisites)
- - [Markdown](#markdown)
- - [Instructions](#instructions)
+- [Prerequisites](#prerequisites)
+- [Markdown](#markdown)
+- [Instructions](#instructions)
     - [Hosting the Resume](#hosting-the-resume)
     - [Changing the theme of your resume](#changing-the-theme-of-your-resume)
- - [More Resources](#moreresources)
- - [Authors](#authors)
- - [Acknowledgments](#acknowledgments)
- - [FAQs](#faq)
+- [More Resources](#more-resources)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgments)
+- [FAQs](#faq)
 
 ### Prerequisites
 You do need a resume already formated in Markdown and have a Github account. You can [visit](https://github.com/) to make a Github account.
@@ -130,7 +132,8 @@ Team members <br />
 Q- I am able to edit my resume and it's theme once I have uploaded it?
 Ans- Yes! You can edit  your resume and change it's theme as many times as you want.
 
-Q- Why do I need to host my resume for on a static website? 
+Q- Why do I need to host my resume for on a static website? What is wrong is distributing resume in a PDF?
+Ans- Well, as Etter's book mentions PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful. If you want to share a resume that is always up to date, hosting it on a static website is the way to go.
 
 
 
