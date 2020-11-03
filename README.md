@@ -122,8 +122,8 @@ Now that you have your resume in a repository, you can change the theme of your 
 ### Acknowledgments
 Resume Theme 
 [cayman](https://github.com/pages-themes/cayman)
-Team members
-[mariellemanlulu](https://github.com/mariellemanlulu/)
+Team members <br />
+[mariellemanlulu](https://github.com/mariellemanlulu/) <br />
 [chrisciceron](https://github.com/chrisciceron)
 
 ### FAQ
