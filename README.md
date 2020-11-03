@@ -12,7 +12,7 @@ This README is for Computer Science students who wants to learn how to host thei
     - [Hosting the Resume](#hosting-the-resume)
     - [Changing the theme of your resume](#changing-the-theme-of-your-resume)
 - [More Resources](#more-resources)
-- [Authors](#authors)
+- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 - [FAQs](#faqs)
 
@@ -52,7 +52,7 @@ Now we just have to make a new repository and add your resume to the repository.
     <img src="image/Onwer.PNG">
     </p>
 
-3. Make your repository either public or private. Since this repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro. You can visit [GitHub Student Developer Pack](https://education.github.com/pack) to upgrade to Github Pro for free using your student email address.*
+3. Make your repository either public or private. Since this repository will contain your resume it would be better if you make it private. (*Note: If you want to make a repository private you need Github pro. You can visit [GitHub Student Developer Pack](https://education.github.com/pack) to upgrade to Github Pro for free using your student email address.*)
 
     <p align="center">
     <img src="image/Private.PNG">
@@ -83,7 +83,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <br />
     b. Name the file `index.mb`. <br />
     c. Write your resume in Markdown format in the text body. <br />
-    d. Click on **Commit** after you are done writing your resume to create a new file.
+    d. Click on **Commit** after you are done writing your resume to create a new file. <br />
     <p align="center">
     <img src="image/Commit.PNG">
     </p>
