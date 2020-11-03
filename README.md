@@ -22,7 +22,7 @@ Before starting you will need:
 - A Github account. You can [visit](https://github.com/) to make a Github account.
 ## Markdown
 Markdown is a lightweight markup language with plain-text-formatting syntax and as the Etter's book mentioned it's the most widely used lightweight markup language in the world and has the cleanest syntax. You can learn the basic syntax for Markdown [here](https://www.markdownguide.org/basic-syntax/). There are number of Markdown editor available and they come in many different syntaxes. We will focus on Github Markdown.
-As mentioned in the Andrew Etter's book Modern Technical Writing because of the popularity of Markdown many specialized text editors exist for it. For example: <br />
+As mentioned in the Etter's book because of the popularity of Markdown many specialized text editors exist for it. For example: <br />
     - [MarkdownPad(Windows)](http://www.markdownpad.com/)<br />
     - [iA Writer(macOS)](https://ia.net/writer)<br />
     - [ReText(Linux)](https://sourceforge.net/directory/development/wordprocessors/os:windows/)<br />
@@ -52,19 +52,19 @@ Now we just have to make a new repository and add your resume to the repository.
     <img src="image/Onwer.PNG">
     </p>
 
-3. Make your repository either public or private. Since this is repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro.*
+3. Make your repository either public or private. Since this repository will contain your resume it would be better if you make it private. *Note: If you want to make a repository private you need Github pro. You can visit [GitHub Student Developer Pack](https://education.github.com/pack) to upgrade to Github Pro for free using your student email address.*
 
     <p align="center">
     <img src="image/Private.PNG">
     </p>
 
-4. Initialize the files that you want in your repository. This is optional but since we are making a resume we do not need any additional files.
+4. Initialize the files that you want in your repository. This is optional but since we are making a resume, we do not need any additional files.
 
     <p align="center">
     <img src="image/Additional_File.PNG">
     </p>
 
-5. Click on **Create repository** to creat the repository you initialize
+5. Click on **Create repository** to create the repository you initialize
 
     <p align="center">
     <img src="image/Creat.PNG">
@@ -97,9 +97,9 @@ The file that will have your resume needs to be named `index.md`. There are two 
     </p>
 
 ## Changing the theme of your resume
-Now that you have your resume in a repository, you can change the theme of your resume i.e. how your resume will look in a static site. Github have a lot of Jeklly based themes you can choose from. To change the theme just do the following:
+Now that you have your resume in a repository, you can change the theme of your resume i.e. how your resume will look in a static site. Github have a lot of Jekyll based themes you can choose from. To change the theme just do the following:
 
-1) Click on **Settings** locoated at the toolbar below your username. 
+1) Click on **Settings** located at the toolbar below your username. 
     <p align="center">
     <img src="image/Setting.PNG">
     </p>
@@ -139,10 +139,13 @@ Peer reviewed by <br />
 
 ## FAQ
 Q- I am able to edit my resume and its theme once I have uploaded it? <br />
-Ans- Yes! You can edit your resume and change it's theme as many times as you want. <br />
+Ans- Yes! You can edit your resume and change its theme as many times as you want. <br />
 
-Q- Why do I need to host my resume for on a static website? What is wrong is distributing resume in a PDF? <br />
-Ans- Well, as Etter's book mentions PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful. If you want to share a resume that is always up to date, hosting it on a static website is the way to go.
+Q- Why do I need to host my resume on a static website? What is wrong with distributing resume in a PDF? <br />
+Ans- Well, as Etter's book mentions 
+> PDFs get downloaded onto hard drives and then sit there like day-old bagels, growing more and more stale until they're actively harmful.
+
+If you want to share a resume that is always up to date, hosting it on a static website is the way to go.
 
 
 
