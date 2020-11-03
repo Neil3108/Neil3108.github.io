@@ -27,7 +27,7 @@ Once you have a Github account and a resume formatted in Markdown you can host i
 ![Homepage](image/GithubHomepage.PNG)
 
 Now we just have to make a new repository and add your resume to the repository.
-##### **1. Making a new Repository**
+#### **1. Making a new Repository**
 1. In the upper-right corner of the page, click **New** to creat a new repository
 
 <p align="center">
@@ -58,7 +58,7 @@ Now we just have to make a new repository and add your resume to the repository.
 <img src="image/Creat.PNG">
 </p>
 
-##### **2. Adding your resume**
+#### **2. Adding your resume**
 The file that will have your resume needs to be named `index.md`. There are two way to have your resume in repository. Making a new file and writing your resume directly in Github and uploading the file that already have your resume in Markdown.
 1) **Making a new file** <br />
     a. To make a new file, click on Add file at the upper center of the page and select Creat new file.
