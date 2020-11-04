@@ -10,7 +10,7 @@ This README is for Computer Science students who wants to learn how to host thei
 - [Markdown](#markdown)
 - [Instructions](#instructions)
     - [Hosting the Resume](#hosting-the-resume)
-    - [Changing the theme of your resume](#changing-the-theme-of-your-resume)
+    - [Changing the Theme of Your Resume](#changing-the-theme-of-your-resume)
 - [More Resources](#more-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -29,9 +29,11 @@ As mentioned in the Etter's book because of the popularity of Markdown many spec
 There also are many online Markdown editors. The popular ones are:<br />
     - [dillinger.io](https://dillinger.io/)<br />
     - [stackedit.io](https://stackedit.io/)<br />
+You can use Markdown to create a static website of your own. As Etter's book says 
+>The basics are that you provide a static site generator with content (lightweight markup) and a theme (templated HTML and CSS), and it processes everything into a working website. To update the site, just modify the content and process everything again.
 
 ## Instructions
-Having your resume hosted at single source avoid duplication and makes updating your resume easier. As Etter's book says 
+We will go through two major steps 1) Hosting the resume and 2) Changing the theme of your resume. Having your resume hosted at single source avoid duplication and makes updating your resume easier. As Etter's book says 
 > If things change—and things always change—you only have to update the documentation in one place.  
 
 ## Hosting the Resume
@@ -83,7 +85,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <br />
     b. Name the file `index.mb`. <br />
     c. Write your resume in Markdown format in the text body. <br />
-    d. Click on <strong>Commit</strong> after you are done writing your resume to create a new file. <br />
+    d. Click on **Commit** after you are done writing your resume to create a new file. <br />
     <p align="center">
     <img src="image/Commit.PNG">
     </p>
@@ -94,7 +96,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <img src="image/GIFupload.gif">
     </p>
     <br />
-    b. Find and select the `index.md` file on your computer and click on <strong>Commit changes</strong> at the bottom of the page to upload the file.
+    b. Find and select the `index.md` file on your computer and click on **Commit changes** at the bottom of the page to upload the file.
     <p align="center">
     <img src="image/CommitChanges.PNG">
     </p>
