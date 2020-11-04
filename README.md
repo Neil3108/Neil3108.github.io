@@ -7,7 +7,7 @@ This README is for Computer Science students who wants to learn how to host thei
 
 ## Summary
 - [Prerequisites](#prerequisites)
-- [Markdown](#markdown)
+- [Markdown and its Use in Static Webpage](#markdown-and-its-use-in-static-webpage)
 - [Instructions](#instructions)
     - [Hosting the Resume](#hosting-the-resume)
     - [Changing the Theme of Your Resume](#changing-the-theme-of-your-resume)
@@ -20,7 +20,7 @@ This README is for Computer Science students who wants to learn how to host thei
 Before starting you will need: 
 - A resume formatted in Markdown 
 - A Github account. You can [visit](https://github.com/) to make a Github account.
-## Markdown
+## Markdown and its Use in Static Webpage
 Markdown is a lightweight markup language with plain-text-formatting syntax and as the Etter's book mentioned it's the most widely used lightweight markup language in the world and has the cleanest syntax. You can learn the basic syntax for Markdown [here](https://www.markdownguide.org/basic-syntax/). There are number of Markdown editor available and they come in many different syntaxes. We will focus on Github Markdown.
 As mentioned in the Etter's book because of the popularity of Markdown many specialized text editors exist for it. For example: <br />
     - [MarkdownPad(Windows)](http://www.markdownpad.com/)<br />
@@ -30,11 +30,12 @@ There also are many online Markdown editors. The popular ones are:<br />
     - [dillinger.io](https://dillinger.io/)<br />
     - [stackedit.io](https://stackedit.io/)<br />
 You can use Markdown to create a static website of your own. As Etter's book says 
->The basics are that you provide a static site generator with content (lightweight markup) and a theme (templated HTML and CSS), and it processes everything into a working website. To update the site, just modify the content and process everything again.
+>The basics are that you provide a static site generator with content (lightweight markup) and a theme (templated HTML and CSS), and it processes everything into a working website. To update the site, just modify the content and process everything again. 
+
+Having your resume hosted at single source avoid duplication and makes updating your resume easier.
 
 ## Instructions
-We will go through two major steps 1) Hosting the resume and 2) Changing the theme of your resume. Having your resume hosted at single source avoid duplication and makes updating your resume easier. As Etter's book says 
-> If things change—and things always change—you only have to update the documentation in one place.  
+We will go through two major steps: Hosting the resume and Changing the theme of your resume. 
 
 ## Hosting the Resume
 Once you have a Github account and a resume formatted in Markdown you can host it on Github. Log into your Github account and the homepage of your account will open which will look this:
