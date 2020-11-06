@@ -55,7 +55,7 @@ Now we just have to make a new repository and add your resume to the repository.
     <img src="image/Onwer.PNG">
     </p>
 
-3. Make your repository either public or private. Since this repository will contain your resume it would be better if you make it private. (*Note: If you want to make a repository private you need Github pro. You can visit [GitHub Student Developer Pack](https://education.github.com/pack) to upgrade to Github Pro for free using your student email address.*)
+3. Make your repository either public or private. It would be better if you keep the repository private until you are done setting up your resume and once it is done you can switch it to public. (*Note: If you want to make a repository private you need Github pro. You can visit [GitHub Student Developer Pack](https://education.github.com/pack) to upgrade to Github Pro for free using your student email address.*)
 
     <p align="center">
     <img src="image/Private.PNG">
@@ -86,7 +86,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <br />
     b. Name the file `index.mb`. <br />
     c. Write your resume in Markdown format in the text body. <br />
-    d. Click on **Commit** after you are done writing your resume to create a new file. <br />
+    d. Click on <strong>Commit</strong> after you are done writing your resume to create a new file. <br />
     <p align="center">
     <img src="image/Commit.PNG">
     </p>
@@ -97,7 +97,7 @@ The file that will have your resume needs to be named `index.md`. There are two 
     <img src="image/GIFupload.gif">
     </p>
     <br />
-    b. Find and select the `index.md` file on your computer and click on **Commit changes** at the bottom of the page to upload the file.
+    b. Find and select the `index.md` file on your computer and click on <strong>Commit changes</strong> at the bottom of the page to upload the file.
     <p align="center">
     <img src="image/CommitChanges.PNG">
     </p>
@@ -125,7 +125,19 @@ Now that you have your resume in a repository, you can change the theme of your 
     <p align="center">
     <img src="image/ResumeGIF.gif">
     </p>
-    
+6) If your repository is not public already, you can go to **Settings** and scroll all the way down to **Danger Zone**
+    <p align="center">
+    <img src="image/DangerZone.PNG">
+    </p>
+7) Click on **Change visibility**
+    <p align="center">
+    <img src="image/ChangeVisibility.PNG">
+    </p>
+8) Type in the phrase it says you to type in the text box and click on **I understand, change repository visibility.**
+    <p align="center">
+    <img src="image/ChangeVisibilityConfirm.PNG">
+    </p>
+9) Now your repository is public and anyone can see it.
 ## More Resources
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [In depth Markdown Tutorial](https://www.markdowntutorial.com/)
