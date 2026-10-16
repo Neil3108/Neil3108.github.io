@@ -2,7 +2,7 @@
 PRAKHAR SHARMA
 ============
 
-##### prakharsharma3108@gmail.com  												Cell: (204) 960 7733 <br />
+##### prakharsharma3108@gmail.com  											 <br />
 <br />
 #### Objective
 Seeking part-time employment in your esteemed organization
